@@ -12,7 +12,7 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-zufar-bobojonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zufar-bobojonov-6544a6251/)](https://www.linkedin.com/in/zufar-bobojonov-6544a6251/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Zufar_Bobojonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zufar-bobojonov-6544a6251/)](https://www.linkedin.com/in/zufar-bobojonov-6544a6251/) 
 [![Telegram Badge](https://img.shields.io/badge/@Zufar_Xorazmiy-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Zufar_Xorazmiy)](https://t.me/Zufar_Xorazmiy) 
 [![Youtube Badge](https://img.shields.io/badge/@MrZufarbek-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@MrZufarbek)](https://www.youtube.com/@MrZufarbek)
 
@@ -74,26 +74,27 @@
   </table>
 </div>
 
-    <div style="text-align: center;">
+<div style="text-align: center;">
         <h2>🌱 Currently Learning</h2>
         <p>I'm currently working on deepening my knowledge and learning new technologies, including:</p>
-        <ul style="list-style-type: none; padding: 0;">
+        <ul>
             <li>Advanced programming techniques in Python</li>
             <li>Database management and optimization</li>
             <li>Fundamentals of web development</li>
             <li>Modern software development methodologies</li>
         </ul>
-    </div>
+</div>
 
-    <div style="text-align: center;">
+<div style="text-align: center;">
         <h2>🎯 Future Goals</h2>
         <p>In the future, I aim to enhance my skills in the following areas:</p>
-        <ul style="list-style-type: none; padding: 0;">
+        <ul>
             <li>Full-stack web development</li>
             <li>Mobile application development</li>
             <li>Basics of artificial intelligence and machine learning</li>
             <li>Software architecture</li>
         </ul>
     </div>
+
 </body>
 </html>
